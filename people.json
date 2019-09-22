@@ -1,0 +1,12 @@
+{
+  "users":[
+    { "name": "Han", "lastname": "Solo" },
+    { "name": "Luke", "lastname": "Skywalker" },
+    { "name": "Leia", "lastname": "Organa" },
+    { "name": "C", "lastname": "3PO" },
+    { "name": "R2", "lastname": "D2" },
+    { "name": "Darth", "lastname": "Vader" },
+    { "name": "Jyn", "lastname": "Erso" },
+    { "name": "Rako", "lastname": "Hardeen" }
+  ]
+}

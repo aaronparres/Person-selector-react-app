@@ -1,0 +1,17 @@
+.noneSelected{
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+
+.selectedUser{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.list{
+    border: 1px solid grey;
+    height: 12em;
+    overflow-y: scroll;
+}
