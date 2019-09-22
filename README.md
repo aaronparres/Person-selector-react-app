@@ -44,10 +44,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-<<<<<<< HEAD
-# Person-selector-react-app
-# Person-selector-react-app
-||||||| merged common ancestors
-# Person-selector-react-app
-=======
->>>>>>> e260a6aa8ef2b57571c178a06816667fa99e9f3f
