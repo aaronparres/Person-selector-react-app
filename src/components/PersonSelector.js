@@ -16,7 +16,7 @@ export default class PersonSelector extends Component {
 
   componentDidMount = () => {
     Axios.get("http://localhost:4000/users")
-    // json-server users.json --watch --port 4000 --delay 600
+    // json-server people.json --watch --port 4000 --delay 600
       .then(response => {
         this.setState({
           users: response.data,
